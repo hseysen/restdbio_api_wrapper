@@ -22,7 +22,7 @@ setup(
     license="GNU General Public License v3 (GPLv3)",
     keywords="api wrapper restdbio online database",
     url="https://github.com/hseysen/restdbio_api_wrapper",
-    download_url="https://github.com/hseysen/restdbio_api_wrapper/archive/v001.tar.gz",
+    download_url="https://github.com/hseysen/restdbio_api_wrapper/archive/v0.0.1-alpha.tar.gz",
     author="Hasan Isgandarli",
     author_email="hesenisgenderli999@gmail.com",
     packages=["restdbio_api_wrapper"],
