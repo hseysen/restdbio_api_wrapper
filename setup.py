@@ -13,13 +13,16 @@ setup(
     description=("An API Wrapper written for restdb.io which helps host online databases."),
     classifiers=[
         "Development Status :: 3 - Alpha",
+        "Intended Audience :: Developers",
+        "Programming Language :: Python :: 3"
         "Programming Language :: Python :: 3.7",
         "Topic :: Database",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     ],  
-    license="GPLv3",
+    license="GNU General Public License v3 (GPLv3)",
     keywords="api wrapper restdbio online database",
-    url="http://github.com/hseysen/restdbio_api_wrapper",
+    url="https://github.com/hseysen/restdbio_api_wrapper",
+    download_url="https://github.com/hseysen/restdbio_api_wrapper/archive/v001.tar.gz",
     author="Hasan Isgandarli",
     author_email="hesenisgenderli999@gmail.com",
     packages=["restdbio_api_wrapper"],
