@@ -1,4 +1,4 @@
-from ..utils import Decorators
+from utils import Decorators
 
 
 class CollectionAPI:

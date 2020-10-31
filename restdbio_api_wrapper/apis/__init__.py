@@ -1,1 +1,1 @@
-from .CollectionAPI import *
+from CollectionAPI import *
