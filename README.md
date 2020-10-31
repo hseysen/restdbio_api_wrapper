@@ -4,7 +4,13 @@ This package is an API Wrapper for the website [restdb.io](https://restdb.io), w
 
 ## Installation
 
-Haven't uploaded/deployed to PyPI yet.
+```python
+pip install restdbio_api_wrapper
+```
+or
+```python
+python -m pip install restdbio_api_wrapper
+```
 
 ## Usage
 
