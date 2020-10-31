@@ -1,4 +1,4 @@
-from restdbio_api_wrapper.utils.Decorators import Decorators
+from ..utils import Decorators
 
 
 class CollectionAPI:
