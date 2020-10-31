@@ -1,4 +1,4 @@
-from .apis.CollectionAPI import *
+from .apis import *
 
 
 class Connection:
