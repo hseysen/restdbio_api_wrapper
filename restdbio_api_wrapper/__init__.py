@@ -1,3 +1,3 @@
-from apis import *
-from Connection import *
-from utils import *
+from .apis import *
+from .Connection import *
+from .utils import *

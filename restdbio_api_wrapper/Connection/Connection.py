@@ -1,6 +1,3 @@
-from apis import *
-
-
 class Connection:
     """
     The objects of this class represent a connection between the database and the program.
