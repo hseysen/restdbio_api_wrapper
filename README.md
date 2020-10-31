@@ -30,7 +30,6 @@ You can of course, use different methods, customize your queries, use additional
 ```python
 help(database_connection.collection_api)
 ```
-Note: not added this yet
 
 ## Contributing
 As I've said earlier, this package is still in development stage. Should you have any issues or ideas, feel free to contribute. You can also e-mail me:
