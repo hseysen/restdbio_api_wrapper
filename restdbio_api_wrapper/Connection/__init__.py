@@ -1,1 +1,1 @@
-from .Connection import *
+from Connection import *
