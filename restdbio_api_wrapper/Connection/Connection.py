@@ -1,3 +1,6 @@
+from ..apis import CollectionAPI
+
+
 class Connection:
     """
     The objects of this class represent a connection between the database and the program.

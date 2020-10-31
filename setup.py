@@ -7,7 +7,7 @@ def readme():
 
 setup(
     name="restdbio_api_wrapper",
-    version="0.0.9",
+    version="0.0.10",
     long_description=readme(),
     long_description_content_type="text/markdown",
     description=("An API Wrapper written for restdb.io which helps host online databases."),
@@ -21,9 +21,10 @@ setup(
     license="GNU General Public License v3 (GPLv3)",
     keywords="api wrapper restdbio online database",
     url="https://github.com/hseysen/restdbio_api_wrapper",
-    download_url="https://github.com/hseysen/restdbio_api_wrapper/archive/v0.0.9-alpha.tar.gz",
+    download_url="https://github.com/hseysen/restdbio_api_wrapper/archive/v0.0.10-alpha.tar.gz",
     author="Hasan Isgandarli",
     author_email="hesenisgenderli999@gmail.com",
-    packages=["restdbio_api_wrapper"],
+    packages=["restdbio_api_wrapper", "restdbio_api_wrapper.utils", "restdbio_api_wrapper.apis",
+              "restdbio_api_wrapper.Connection"],
     install_requires=["requests"]
 )
